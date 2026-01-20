@@ -1,4 +1,4 @@
-# Fingerprint Image Processing API (Flask + OpenCV)
+# Fingerprint Image Processing
 
 ## Overview
 
